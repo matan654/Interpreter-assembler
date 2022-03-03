@@ -1,0 +1,49 @@
+Error in line 1: Label name 'ABCDEFGHIJKLMNOPQRSTUVWXYZlsdkjfslkdfj456456klj534lk5jl3aaaToChack' are too long
+Error in line 3: Label name 2main are not starts with a letter
+Error in line 4: Label name 'maaasdasdasdasdasdinasdsdasdasdassa' are too long
+Error in line 5: Label name 'r2' cannot be register,teaching or guidance name
+Error in line 6: Label name 'stop' cannot be register,teaching or guidance name
+Error in line 7: Label name 'data' cannot be register,teaching or guidance name
+Error in line 9: Unnecessary comma at the beginning of the statement
+Error in line 10: Unnecessary comma at the end of the statement
+Error in line 11: More than two consecutive commas in the statement
+Error in line 12: Could not parse natural number in parameter 'utuyt'
+Error in line 13: Could not parse natural number in parameter '45 utuyt'
+Error in line 14: Could not parse natural number in parameter '-1sdf00'
+Error in line 15: Could not parse natural number in parameter '-5.0'
+Error in line 16: Could not parse natural number in parameter '-5.5'
+Error in line 18: Unnecessary comma at the beginning of the statement
+Error in line 20: Missing quotation marks(") at beginning of string
+Error in line 21: Missing quotation marks(") at end of string
+Warning in line 27: The program will ignore the label 'ERR' it in an extern row
+Error in line 28: Redundant chars: 'jhj'
+Error in line 29: Label name in the external operand statement is missing
+Warning in line 31: The program will ignore the label 'ERR' it in an entern row
+Error in line 33: Label name in the entern operand statement is missing
+Error in line 35: Redundant chars: 'abcd534lkj6'
+Error in line 38: Missing parameters
+Error in line 40: Destination operand is not compatible with instruction
+Error in line 41: Could not parse natural number in parameter '45g43'
+Error in line 42: Redundant chars: 'hToCheck'
+Error in line 43: Redundant chars: 'jkhd876dfgToCheck-----'
+Error in line 46: Missing parameters or comma
+Error in line 47: Missing parameters or comma
+Error in line 48: Missing parameters or comma
+Error in line 49: Missing parameters or comma
+Error in line 50: Missing parameters or comma
+Error in line 51: Redundant chars: 'sdfsdf'
+Error in line 52: Missing parameters
+Error in line 54: Destination operand is not compatible with instruction
+Error in line 59: Missing first parameters of the destination operands
+Error in line 60: Missing destination operand parameters
+Error in line 61: Missing destination operand parameters
+Error in line 62: Invalid row: 'ABBB DATA1 DATA4'
+Error in line 63: Redundant chars: 'sdf'
+Error in line 64: Missing destination operand parameters
+Error in line 65: Missing first parameters of the destination operands
+Error in line 66: Missing second parameters of the destination operands
+Error in line 67: Missing char of separation ')'
+Error in line 68: Missing char of separation ',' between the parameters of the destination operands
+Error in line 69: Missing parameters
+Error in line 70: Missing char of separation '('
+Error in line 71: Missing second parameters of the destination operands
